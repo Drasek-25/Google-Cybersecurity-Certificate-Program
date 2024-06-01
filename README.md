@@ -5,6 +5,8 @@
 
 [Glossarty of Terms](https://docs.google.com/document/d/1Feb8pHRY-blnpaLOohds2esd6IWdCIp-ikG7G_omSj4/template/preview?resourcekey=0-YHcAISkCiqGDq5KwO6yNeQ)
 
+These are personal notes so they do not encompass everything presented in this course. These notes only cover the items in the course I feel that I did not already know beforehand, or that made enough sense that I didnt feel It would be something I would forget/need to study later.
+
 ---
 ## Foundations of Cybersecurity
 ### Module 1
@@ -68,7 +70,55 @@ Follow curiousity into learning , it doesnt need to be inside of the confines of
 
 ### Module 3
 
+**Security Frameworks**
 
+Guidlines used for building plans to help mitigate risk and threats to data and privacy.
+
+Purposes Include
+<li> Protecting PII (Personally Identifiable Info)
+<li> Securing financial information
+<li> identifying security weaknesses
+<li> managing organizational risks
+<li> aligning security with business goals
+
+The four core components of frameworks
+<li> Identifying and documenting security goals
+<li> Setting guidlines to achieve security goals
+<li> Implementing security processes
+<li> Monitoring and communicating results
+
+**Security Controls**
+
+Safeguards designed to reduce specific security risks
+
+Something like tracking which employees have completed a security training
+
+**CIA Triad**
+
+A foundational model that helps inform how organizations consider risk when setting up systems and security policies
+<ul>
+    <li> Confidentiality
+        <ul>
+            <li> Only authorized users can access specific assets
+        </ul>
+    <li> Integrity
+        <ul>
+            <li> Data is Correct, Authentic, and Reliable
+        </ul>
+    <li> Availability
+        <ul>
+            <li> Data is accessable to those authorized to access it
+        </ul>
+</ul>
+
+** NIST Cybersecurity Framework (CSF)**
+
+A voluntary framework that consistes of standard, guidelines, and best practices to manage cybersecurity risk.
+
+This is essentially a blueprint for people to follow if they so choose, sounds to me like this is to allow organizations to adopt a framework easily, maybe for smaller businesses that need something, but not something specific to follow.
+
+
+    
 ---
 ## Play It Safe: Manage Security Risks
 
