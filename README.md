@@ -3,12 +3,15 @@
 
 [Trouble Shooting Quicklabs](https://support.google.com/qwiklabs/answer/9133560?hl=en&ref_topic=9134804)
 
-[Glossarty of Terms](https://docs.google.com/document/d/1Feb8pHRY-blnpaLOohds2esd6IWdCIp-ikG7G_omSj4/template/preview?resourcekey=0-YHcAISkCiqGDq5KwO6yNeQ)
+[Cybersec Program Glossary](https://docs.google.com/document/d/1Feb8pHRY-blnpaLOohds2esd6IWdCIp-ikG7G_omSj4/template/preview?resourcekey=0-YHcAISkCiqGDq5KwO6yNeQ)
 
 These are personal notes so they do not encompass everything presented in this course. These notes only cover the items in the course I feel that I did not already know beforehand, or that made enough sense that I didnt feel It would be something I would forget/need to study later.
 
 ---
 ## Foundations of Cybersecurity
+
+[Course 1 Glossary](https://docs.google.com/document/d/1bBtBHYrrm4kmWJqJVmeNUDPG24ydGvc4ACMLoP9zzps/template/preview?pli=1&resourcekey=0-0uttQ9n9hmekaJBuPVjWMg)
+
 ### Module 1
 
 Remember to take breaks
