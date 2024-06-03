@@ -111,15 +111,39 @@ A foundational model that helps inform how organizations consider risk when sett
         </ul>
 </ul>
 
-** NIST Cybersecurity Framework (CSF)**
+**NIST Cybersecurity Framework (CSF)**
 
 A voluntary framework that consistes of standard, guidelines, and best practices to manage cybersecurity risk.
 
 This is essentially a blueprint for people to follow if they so choose, sounds to me like this is to allow organizations to adopt a framework easily, maybe for smaller businesses that need something, but not something specific to follow.
 
+### Module 4
 
-    
----
+**SIEM tools**
+
+An application that collects and analyzes log data to monitor critical activites in an organization. I.E.. how the company wants to respond to events.
+
+**Playbooks**
+
+A manual that provides details about any operational action
+
+**Network protocol analyzers**
+
+I know this item by the name *Packet Sniffer* 
+
+Is a tool designed to capture and alayze data traffic within a network.
+
+
+**Professional statement**
+
+*To be included in resume later*
+
+[Link to Outline Guide](https://docs.google.com/document/d/1D4XshTUL8IBcmn9uUL8hkP-LmUTmr6XTRw0XfbYW94Y/edit)
+
+[Link to Refinement guide](https://docs.google.com/document/d/1J4_zuiQKgVBOF3MD-t8zur7e2de2CdaZJ5BcWJy6EN4/edit#heading=h.1rdne9oce5ug)
+
+[Link to Statement to compare to](https://docs.google.com/document/d/1iq5QYh1v2yV2VN5U9bMT1FHjJ7sVLGKWPx4TLAQvxXQ/edit#heading=h.ule3pcuk2vyo)
+
 ## Play It Safe: Manage Security Risks
 
 
