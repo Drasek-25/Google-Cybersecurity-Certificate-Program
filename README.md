@@ -149,6 +149,70 @@ Is a tool designed to capture and alayze data traffic within a network.
 
 ## Play It Safe: Manage Security Risks
 
+### Module 1
+
+**IAM Identity Access Mgmt**
+The components are Identification, Authentication, Authorization, Accountability 
+
+**NISTS RMF Mgmt Framework**
+<ul>
+    <li> Prepare
+        <ul>
+            <li> Activites that are necessary to manage security and privacy risks before a breach occurs
+        </ul>
+    <li> Catagorize
+        <ul>
+            <li> Develop risk management processes and tasks. Security professionals then use those processes and develop tasks by thinking about how the confidentiality, integrity, and availability of systems and information can be impacted by risk
+        </ul>
+    <li> Select
+        <ul>
+            <li> To choose, customize, and capture documentation of the controls that protect an organization. Keeping a playbook up to date as an example
+        </ul>
+    <li> Implement
+        <ul>
+            <li> Implement security and privacy plans for the organization. Having good plans in place is essential for minimizing the impact of ongoing security risks
+        </ul>
+    <li> Assess
+        <ul>
+            <li> Determine if established controls are implemented correctly. An organization always wants to operate as efficiently as possible. So it's essential to take the time to analyze whether the implemented protocols, procedures, and controls that are in place are meeting organizational needs
+        </ul>
+    <li> Authorize
+        <ul>
+            <li> Being accountable for the security and privacy risks that may exist in an organization
+        </ul>
+    <li> Monitor
+        <ul>
+            <li> Monitor means to be aware of how systems are operating. Assessing and maintaining technical operations are tasks that analysts complete daily
+        </ul>
+</ul>
+
+**Types of vulnerabilities**
+<ul>
+    <li> ProxyLogon
+        <ul>
+            <li>A pre-authenticated vulnerability that affects the Microsoft Exchange server. This means a threat actor can complete a user authentication process to deploy malicious code from a remote location.
+        </ul>  
+    <li> ZeroLogon
+        <ul>
+            <li> A vulnerability in Microsoft’s Netlogon authentication protocol. An authentication protocol is a way to verify a person's identity. Netlogon is a service that ensures a user’s identity before allowing access to a website's location.
+        </ul>  
+    <li> Log4Shell
+        <ul>
+            <li>Allows attackers to run Java code on someone else’s computer or leak sensitive information. It does this by enabling a remote attacker to take control of devices connected to the internet and run malicious code.
+        </ul>  
+    <li> PetitPotam
+        <ul>
+            <li> Affects Windows New Technology Local Area Network (LAN) Manager (NTLM). It is a theft technique that allows a LAN-based attacker to initiate an authentication request.
+        </ul>  
+    <li> Security logging and monitoring failures
+        <ul>
+            <li> Insufficient logging and monitoring capabilities that result in attackers exploiting vulnerabilities without the organization knowing it
+        </ul>  
+    <li> Server-side request forgery
+        <ul>
+            <li>Allows attackers to manipulate a server-side application into accessing and updating backend resources. It can also allow threat actors to steal data.
+        </ul>  
+</ul>          
 
 ---
 ## Connect and Protect: Networks and Network Security
