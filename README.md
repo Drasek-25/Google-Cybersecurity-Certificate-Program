@@ -212,7 +212,95 @@ The components are Identification, Authentication, Authorization, Accountability
         <ul>
             <li>Allows attackers to manipulate a server-side application into accessing and updating backend resources. It can also allow threat actors to steal data.
         </ul>  
-</ul>          
+</ul>       
+
+
+**NISTS CSF Cyber Security Framework**
+<ul>
+    <li> Identify
+        <ul>
+            <li> The management of cybersecurity risk and its effect on an organization's people and assets.
+        </ul>
+    <li> Protect
+        <ul>
+            <li> The strategy used to protect an organization through the implementation of policies, procedures, training, and tools that help mitigate cybersecurity threats.
+        </ul>
+    <li> Detect 
+        <ul>
+            <li> Identifying potential security incidents and improving monitoring capabilities to increase the speed and efficiency of detections.
+        </ul>
+    <li> Respond
+        <ul>
+            <li> Making sure that the proper procedures are used to contain, neutralize, and analyze security incidents, and implement improvements to the security process.
+        </ul>
+    <li> Recover
+        <ul>
+            <li> Which is the process of returning affected systems back to normal operation.
+        </ul>
+</ul>
+
+
+**OWASP Security Principles**
+<ul>
+    <li> Minimize attack surface area.
+        <ul>
+            <li> Attack surface refers to all the potential vulnerabilities a threat actor could exploit.
+        </ul>
+    <li> Principle of least privelege.
+        <ul>
+            <li> Users have the least amount of access required to perform their everyday tasks.
+        </ul>
+    <li> Defense in depth.
+        <ul>
+            <li> Organizations should have varying security controls that mitigate risks and threats.
+        </ul>
+    <li> Sepration of duties.
+        <ul>
+            <li> Critical actions should rely on multiple people, each of whom follow the principle of least privilege. 
+        </ul>
+    <li> Keep security simple.
+        <ul>
+            <li> Avoid unnecessarily complicated solutions. Complexity makes security difficult. 
+        </ul>
+    <li> Fix security issues correctly.
+        <ul>
+            <li> When security incidents occur, identify the root cause, contain the impact, identify vulnerabilities, and conduct tests to ensure that remediation is successful.
+        </ul>
+    <li> Establish secure defaults
+        <ul>
+            <li> The optimal security state of an application is also its default state for users; it should take extra work to make the application insecure. 
+        </ul>
+    <li> Fail securely
+        <ul>
+            <li> When a control fails or stops, it should do so by defaulting to its most secure option. For example, when a firewall fails it should simply close all connections and block all new ones, rather than start accepting everything.
+        </ul>
+    <li> Don’t trust services
+        <ul>
+            <li> Many organizations work with third-party partners. These outside partners often have different security policies than the organization does. And the organization shouldn’t explicitly trust that their partners’ systems are secure. 
+        </ul>
+    <li> Avoid security by obscurity
+        <ul>
+            <li> The security of an application should not rely on keeping the source code secret. Its security should rely upon many other factors, including reasonable password policies, defense in depth, business transaction limits, solid network architecture, and fraud and audit controls.
+        </ul>
+</ul>
+
+**Common Elements of Internal Audits**
+<ul>
+    <li>Establishing the Scope and goals.
+        <ul>
+            <li> Scope refers to the specific criteria of an internal security audit
+        </ul>
+        <ul>
+            <li> Goals are an outline of the organizations security objectives
+        </ul>
+    <li>Conducting a risk assessment.
+        <ul>
+            <li> Goals are an outline of the organizations security objectives
+        </ul>
+    <li>Completing a controls assessment.
+    <li>Assessing complaiance.
+    <li>Communicating results.
+</ul>
 
 ---
 ## Connect and Protect: Networks and Network Security
