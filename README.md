@@ -298,8 +298,39 @@ The components are Identification, Authentication, Authorization, Accountability
             <li> Goals are an outline of the organizations security objectives
         </ul>
     <li>Completing a controls assessment.
+        <ul>
+            <li> Closely reviewing an organization's existing assets, then evaluating potential risks to those assets, to ensure internal controls and processes are effective.
+            <li> Control Catagories
+            <ul>
+                <li> Administrative Controls (Human controls)
+                <li> Technical Controls (Hardware/Software)
+                <li> Physical Controls (Gates/CCTV/Locks etc)
+            </ul>
+        </ul>
     <li>Assessing complaiance.
+        <ul>
+            <li> Determining whether or not the organization is adhering to necessary compliance regulations.
+        </ul>
     <li>Communicating results.
+        <ul>
+            <li> Once the internal security audit is complete, results and recommendations need to be communicated to stakeholders. In general, this type of communication summarizes the scope and goals of the audit.
+            <li> Stakeholder Communication
+            <ul>
+                <li>  Summarizes scope and goals of the audit.
+                <li> Lists Existing Risks.
+                <li> Notes how quickly those risks need to be addressed.
+                <li> Identifies compliance regulations.
+                <li> Provides reccomendation to improve sec posture.
+            </ul>
+        </ul>
+</ul>
+
+**Audit Questions**
+<ul>
+    <li> What is the audit meant to achieve?
+    <li> Which assets are most at risk?
+    <li> Are current controls sufficient to protect those assets?
+    <li> What controls and compliance regulatyions need to be implemented
 </ul>
 
 ---
